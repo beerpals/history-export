@@ -1,5 +1,7 @@
 # history-export
 
+### Deprecated!!!
+
 Get your beer contributions from beerhub repository in json format.
 
 ## Run
